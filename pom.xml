@@ -12,9 +12,18 @@
   </dependencies>
 </project>
 
+<<<<<<< Updated upstream
 <! project2 comleted>
 <html docktype>
 <html>
 <head>
 <title>google</title>
+=======
+<! project1--
+<dependency>
+public classA{
+public static void main [String[]args]{
+some logic //task is completed
+}
+>>>>>>> Stashed changes
 
